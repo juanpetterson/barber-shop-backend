@@ -1,3 +1,3 @@
-<img src="/assets/logo.svg" >
+<img src="/assets/barber-logo.svg" >
 
 Backend API for a Barber Shop Application
